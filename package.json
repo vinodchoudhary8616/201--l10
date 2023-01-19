@@ -16,7 +16,7 @@
       "prettier --write ."
     ]
   },
-  "author": "SRICHANDRA",
+  "author": "vinod choudhary",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
